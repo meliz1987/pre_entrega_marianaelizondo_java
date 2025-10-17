@@ -43,7 +43,7 @@ Las Clases principales son:
 El `Main` muestra un menú principal desde donde el usuario puede elegir:
 
 1) CRUD de Productos  
-2)CRUD de Categorías  
+2) CRUD de Categorías  
 0) Salir  
 
 Cada módulo (productos o categorías) tiene su propio submenú con las opciones:
